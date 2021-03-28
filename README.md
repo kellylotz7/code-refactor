@@ -9,5 +9,9 @@ Below are screenshots of the landing page:
 
 Here is the link to the landing page:
 
+https://kellylotz7.github.io/code-refactor/
 
+Here is the link to the repository:
+
+https://github.com/kellylotz7/code-refactor.git
 
