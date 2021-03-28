@@ -1,3 +1,4 @@
+/*applies to all*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -27,6 +28,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header and nav*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -60,6 +62,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -94,6 +97,7 @@ header nav ul li {
     font-size: 36px;
 }
 
+/*Vertical content styling */
 .vertical-content-main {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +125,7 @@ header nav ul li {
     max-width: 150px;
 }
 
+/*Footer */
 footer {
     padding: 30px;
     clear: both;
