@@ -15,3 +15,4 @@ Here is the link to the repository:
 
 https://github.com/kellylotz7/code-refactor.git
 
+permalink: /index.html
